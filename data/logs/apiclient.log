@@ -1,0 +1,16 @@
+2015-07-30T22:53:07+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"This table does not have an Adapter setup"}
+2015-07-30T22:53:42+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"This table does not have an Adapter setup"}
+2015-07-30T22:53:58+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"This table does not have an Adapter setup"}
+2015-07-30T23:02:03+00:00 DEBUG (7):
+2015-07-30T23:06:04+00:00 DEBUG (7):
+2015-07-31T19:18:56+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.packtpub.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
+2015-07-31T19:19:44+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.packtpub.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
+2015-07-31T19:21:29+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.packtpub.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
+2015-07-31T19:21:46+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.packtpub.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
+2015-07-31T19:22:24+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.youtube.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
+2015-07-31T19:22:42+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.youtube.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
+2015-07-31T19:22:52+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.youtube.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
+2015-07-31T19:22:53+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.youtube.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
+2015-07-31T19:23:21+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.amazon.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
+2015-07-31T19:23:42+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.amazon.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
+2015-07-31T19:23:55+00:00 DEBUG (7): {"errorCode":0,"errorMsg":"Unable to enable crypto on TCP connection www.yahoo.com: make sure the \u0022sslcafile\u0022 or \u0022sslcapath\u0022 option are properly set for the environment."}
